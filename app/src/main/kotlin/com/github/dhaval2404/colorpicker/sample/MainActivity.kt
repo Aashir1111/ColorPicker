@@ -41,6 +41,9 @@ class MainActivity : AppCompatActivity() {
         IntentUtil.openURL(this, GITHUB_REPOSITORY)
     }
 
+
+
+    
     class ViewPagerAdapter(activity: FragmentActivity) : FragmentStateAdapter(activity) {
 
         override fun createFragment(position: Int): Fragment {
