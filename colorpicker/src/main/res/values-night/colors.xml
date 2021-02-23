@@ -4,5 +4,6 @@
     <color name="positiveButtonTextColor">@android:color/black</color>
     <color name="negativeButtonTextColor">@android:color/black</color>
     <color name="bottomSheetDividerColor">@android:color/black</color>
+    <color name="red">@android:color/black</color>
 
 </resources>
